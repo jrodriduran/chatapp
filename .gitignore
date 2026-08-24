@@ -1,2 +1,24 @@
+﻿# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+
+# Local env files (SECRETS - nunca subir)
+.env
+.env*.local
+
+# Vercel
 .vercel
-node_modules
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
