@@ -1,0 +1,9 @@
+{
+  "pages": {
+    "/api/webhooks/whatsapp/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/webhooks/whatsapp/route.js"
+    ]
+  }
+}
